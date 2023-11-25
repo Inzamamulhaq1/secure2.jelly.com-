@@ -1,3 +1,3 @@
-# http-secure2.jelly.com-
+secure2.jelly.com-
 
 domain takeover by inzamamulhaq
